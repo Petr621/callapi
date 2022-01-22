@@ -1,5 +1,1 @@
-{
-  "version": "1.0.1",
-  "description": "Api for your vk apps/bots",
-  "command": "npm"
-}
+{"version": "1.0.1", "description": "Api for your vk apps/bots", "command": "npm"}
